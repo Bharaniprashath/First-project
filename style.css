@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+}
+h1{
+  color: deeppink;
+  position:relative;
+  bottom:25px;
+}
+
+
+  
+  }
+  p{
+    color:white;
+  }
+  .two{
+    color:white;
+    position:relative;
+  }
+  .submit{
+    position:relative;
+    right:20px;
+  }
+  img{
+    position:relative;
+    margin-top: 20px;
+    width: 200px;
+    left: 80px;
+  }
+  
