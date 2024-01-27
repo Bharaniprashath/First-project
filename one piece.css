@@ -1,0 +1,42 @@
+body{
+  background-color:black;
+}
+h1{
+  color: white;
+}
+h2{
+  color:white;
+  block-size:30px;
+  background-color: deeppink;
+  
+}
+h3{
+  color: white;
+  position: relative;
+  left:50px;
+}
+h4{
+  background-color: deeppink;
+  position: relative;
+  color:white;
+  block-size:30px;
+  font-size:20px;
+ 
+}
+h5{ 
+  background-color: deeppink;
+  color: white;
+  block-size:30px;
+  font-size: 20px;
+  
+}
+p{
+  color:white;
+  position:relative;
+}
+.one{
+  position:relative;
+  left:80px;
+}
+
+
